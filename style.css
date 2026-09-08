@@ -1,0 +1,29 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #fffadb;
+}
+
+article {
+    border: 1px solid black;
+    padding: 15px;
+    margin-bottom: 2vh;
+    margin-left: 1vw;
+    margin-right: 1vw;
+    border-radius: 10px;
+}
+
+h2 {
+    margin-top: 0;
+}
+
+footer {
+    font-size: large;
+    margin-bottom: 2vh;
+}
+
+a {
+    text-decoration: none;
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
